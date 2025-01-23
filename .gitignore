@@ -1,0 +1,21 @@
+# idea
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# osx
+.DS_Store
+
+# dir
+
+# file
+*.aux
+*.bbl
+*.blg
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+
