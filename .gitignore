@@ -18,4 +18,4 @@
 *.lot
 *.out
 *.synctex.gz
-*.pdf
+*article.pdf
