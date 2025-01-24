@@ -8,6 +8,7 @@
 .DS_Store
 
 # dir
+*0_refence/
 
 # file
 *.aux
